@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Створіть власну бібліотеку підказок AI"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Копіювати"
+   },
+   "enter_val": {
+      "message": "Введіть значення для"
+   },
+   "launchSearch": {
+      "message": "Запустити пошук"
+   },
+   "openSidebar": {
+      "message": "бічну панель відкрити"
+   },
+   "placeholder": {
+      "message": "Напишіть повідомлення або натисніть \"/\", щоб вибрати запрошення..."
+   },
+   "searchPrompts": {
+      "message": "Запити пошуку..."
+   },
+   "submit": {
+      "message": "Надіслати"
+   }
+}

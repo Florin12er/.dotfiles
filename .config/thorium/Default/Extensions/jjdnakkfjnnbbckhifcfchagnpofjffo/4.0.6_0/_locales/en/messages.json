@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Craft a custom library of AI Prompts"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "COPY"
+   },
+   "enter_val": {
+      "message": "Enter value for"
+   },
+   "launchSearch": {
+      "message": "Launch Search"
+   },
+   "openSidebar": {
+      "message": "Open the sidebar"
+   },
+   "placeholder": {
+      "message": "Type a message or type \"/\" to select a prompt..."
+   },
+   "searchPrompts": {
+      "message": "Search prompts..."
+   },
+   "submit": {
+      "message": "Submit"
+   }
+}

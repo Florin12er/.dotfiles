@@ -1,0 +1,28 @@
+2024-02-02 11:47:06.085 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-02-02 11:47:06.215 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-02-02 11:47:06.930 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2024-02-02 11:47:06.951 [info] Extracted extension to file:///home/florin/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.0-universal: catppuccin.catppuccin-vsc
+2024-02-02 11:47:06.953 [info] Renamed to /home/florin/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.0-universal
+2024-02-02 11:47:06.954 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-02-02 11:47:06.960 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-02-02 11:47:07.036 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/florin/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/florin/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)
+2024-02-02 11:47:14.242 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2024-02-02 11:47:14.391 [info] Installing extension: catppuccin.catppuccin-vsc-icons
+2024-02-02 11:47:15.259 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc-icons
+2024-02-02 11:47:15.840 [info] Extracted extension to file:///home/florin/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.8.0-universal: catppuccin.catppuccin-vsc-icons
+2024-02-02 11:47:15.850 [info] Renamed to /home/florin/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.8.0-universal
+2024-02-02 11:47:15.851 [info] Extracting extension completed. catppuccin.catppuccin-vsc-icons
+2024-02-02 11:47:15.857 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons
+2024-02-02 11:47:15.931 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/florin/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/florin/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/nix/store/i60j6j7fiyilc82n9a9ms4s9d6ymdnws-vscodium-1.85.2.24019/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)

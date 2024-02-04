@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "打造自定义 AI 提示库"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "复制"
+   },
+   "enter_val": {
+      "message": "输入值"
+   },
+   "launchSearch": {
+      "message": "启动搜索"
+   },
+   "openSidebar": {
+      "message": "打开侧边栏"
+   },
+   "placeholder": {
+      "message": "输入消息或输入 \"/\" 选择一个提示..."
+   },
+   "searchPrompts": {
+      "message": "搜索提示..."
+   },
+   "submit": {
+      "message": "提交"
+   }
+}

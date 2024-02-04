@@ -1,0 +1,15 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/http=thorium-browser.desktop;thorium-shell.desktop;firefox-esr.desktop;
+x-scheme-handler/https=thorium-browser.desktop;thorium-shell.desktop;firefox-esr.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;org.kde.kmail2.desktop;
+x-scheme-handler/tel=org.kde.kdeconnect.handler.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/http=thorium-browser.desktop;
+x-scheme-handler/https=thorium-browser.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;
+x-scheme-handler/tel=org.kde.kdeconnect.handler.desktop;

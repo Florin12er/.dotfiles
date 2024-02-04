@@ -1,0 +1,36 @@
+2024/02/02-15:15:43.501 eb5c Reusing MANIFEST /home/florin/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/02/02-15:15:43.501 eb5c Recovering log #35
+2024/02/02-15:15:43.502 eb5c Reusing old log /home/florin/.config/thorium/Default/Sync Data/LevelDB/000035.log 
+2024/02/02-15:52:09.944 eb6d Level-0 table #39: started
+2024/02/02-15:52:09.946 eb6d Level-0 table #39: 143066 bytes OK
+2024/02/02-15:52:09.948 eb6d Delete type=0 #35
+2024/02/02-15:52:09.948 eb6d Compacting 4@0 + 1@1 files
+2024/02/02-15:52:09.951 eb6d Generated table #40@0: 63 keys, 9993 bytes
+2024/02/02-15:52:09.951 eb6d Compacted 4@0 + 1@1 files => 9993 bytes
+2024/02/02-15:52:09.952 eb6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/02-15:52:09.952 eb6d Delete type=2 #29
+2024/02/02-15:52:09.953 eb6d Delete type=2 #39
+2024/02/02-15:52:09.953 eb6d Delete type=2 #36
+2024/02/02-15:52:09.953 eb6d Delete type=2 #33
+2024/02/02-15:52:09.953 eb6d Delete type=2 #31
+2024/02/02-16:09:50.676 eb6d Level-0 table #42: started
+2024/02/02-16:09:50.678 eb6d Level-0 table #42: 89798 bytes OK
+2024/02/02-16:09:50.680 eb6d Delete type=0 #38
+2024/02/02-17:08:38.435 eb6d Level-0 table #44: started
+2024/02/02-17:08:38.445 eb6d Level-0 table #44: 90439 bytes OK
+2024/02/02-17:08:38.446 eb6d Delete type=0 #41
+2024/02/02-17:27:57.476 eb6d Level-0 table #46: started
+2024/02/02-17:27:57.486 eb6d Level-0 table #46: 90680 bytes OK
+2024/02/02-17:27:57.501 eb6d Delete type=0 #43
+2024/02/02-18:13:35.461 eb6d Level-0 table #48: started
+2024/02/02-18:13:35.485 eb6d Level-0 table #48: 104567 bytes OK
+2024/02/02-18:13:35.488 eb6d Delete type=0 #45
+2024/02/02-18:13:35.488 eb6d Compacting 4@0 + 1@1 files
+2024/02/02-18:13:35.491 eb6d Generated table #49@0: 67 keys, 11608 bytes
+2024/02/02-18:13:35.491 eb6d Compacted 4@0 + 1@1 files => 11608 bytes
+2024/02/02-18:13:35.493 eb6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/02-18:13:35.493 eb6d Delete type=2 #48
+2024/02/02-18:13:35.493 eb6d Delete type=2 #40
+2024/02/02-18:13:35.493 eb6d Delete type=2 #42
+2024/02/02-18:13:35.493 eb6d Delete type=2 #44
+2024/02/02-18:13:35.493 eb6d Delete type=2 #46

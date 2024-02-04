@@ -1,0 +1,14 @@
+2024/02/02-11:05:30.905 267a Creating DB /home/florin/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2024/02/02-11:05:30.918 267a Reusing MANIFEST /home/florin/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/02/02-11:05:31.548 267b Level-0 table #5: started
+2024/02/02-11:05:31.569 267b Level-0 table #5: 1923528 bytes OK
+2024/02/02-11:05:31.570 267b Delete type=0 #3
+2024/02/02-11:05:46.956 267b Level-0 table #7: started
+2024/02/02-11:05:46.975 267b Level-0 table #7: 1023081 bytes OK
+2024/02/02-11:05:46.976 267b Delete type=0 #4
+2024/02/02-11:05:58.174 267b Level-0 table #9: started
+2024/02/02-11:05:58.194 267b Level-0 table #9: 1667893 bytes OK
+2024/02/02-11:05:58.196 267b Delete type=0 #6
+2024/02/02-11:06:06.957 267b Level-0 table #11: started
+2024/02/02-11:06:06.977 267b Level-0 table #11: 2228517 bytes OK
+2024/02/02-11:06:06.979 267b Delete type=0 #8

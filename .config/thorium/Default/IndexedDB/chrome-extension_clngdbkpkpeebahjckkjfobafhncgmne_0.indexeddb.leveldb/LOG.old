@@ -1,0 +1,7 @@
+2024/02/02-15:15:43.683 eb6f Reusing MANIFEST /home/florin/.config/thorium/Default/IndexedDB/chrome-extension_clngdbkpkpeebahjckkjfobafhncgmne_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/02-15:15:43.684 eb6f Recovering log #3
+2024/02/02-15:15:43.684 eb6f Reusing old log /home/florin/.config/thorium/Default/IndexedDB/chrome-extension_clngdbkpkpeebahjckkjfobafhncgmne_0.indexeddb.leveldb/000003.log 
+2024/02/02-15:49:57.784 eb5d Level-0 table #5: started
+2024/02/02-15:49:57.787 eb5d Level-0 table #5: 22906 bytes OK
+2024/02/02-15:49:57.790 eb5d Delete type=0 #3
+2024/02/02-15:49:57.790 eb5d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

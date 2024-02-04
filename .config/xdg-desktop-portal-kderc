@@ -1,0 +1,8 @@
+[FileDialogSize]
+2 screens: Height=598
+2 screens: Width=1128
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/download.png,file:$HOME/Downloads/142166195.jpeg
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16

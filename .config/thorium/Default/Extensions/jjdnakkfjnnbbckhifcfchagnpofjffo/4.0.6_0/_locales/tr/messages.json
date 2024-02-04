@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Özel bir AI İstemi Kütüphanesi oluşturun"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "enter_val": {
+      "message": "İçin değer girin"
+   },
+   "launchSearch": {
+      "message": "Aramayı Başlat"
+   },
+   "openSidebar": {
+      "message": "Yan çubuğunu aç"
+   },
+   "placeholder": {
+      "message": "Bir mesaj yazın veya bir komut seçmek için \"/\" yazın..."
+   },
+   "searchPrompts": {
+      "message": "Arama istemleri..."
+   },
+   "submit": {
+      "message": "Gönder"
+   }
+}

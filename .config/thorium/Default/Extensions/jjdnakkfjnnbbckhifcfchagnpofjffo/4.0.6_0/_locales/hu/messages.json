@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Hozzon létre egyéni AI-kérés könyvtárat"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Másolás"
+   },
+   "enter_val": {
+      "message": "Érték megadása ehhez"
+   },
+   "launchSearch": {
+      "message": "Keresés indítása"
+   },
+   "openSidebar": {
+      "message": "Oldalvarnyit megnyitása"
+   },
+   "placeholder": {
+      "message": "Írjon egy üzenetet, vagy írjon be egy \"/\" jelet az előre meghatározott üzenet kiválasztásához..."
+   },
+   "searchPrompts": {
+      "message": "Keresési felhívások..."
+   },
+   "submit": {
+      "message": "Beküldés"
+   }
+}

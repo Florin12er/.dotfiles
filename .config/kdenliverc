@@ -1,0 +1,96 @@
+[MainWindow]
+2 screens: Height=1036
+2 screens: Width=956
+2 screens: XPosition=962
+2 screens: YPosition=42
+DisplayPort-1 DisplayPort-2=DisplayPort-2
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAFEAAADy/wCAAAAA/sAAAAYAGMAbABpAHAAXwBtAG8AbgBpAHQAbwByAQAAACEAAAENAAAA6gEAAAP7AAAAFAByAGcAYgBfAHAAYQByAGEAZABlAQAAAS8AAAE9AAAATgEAAAP8AAACbQAAAX8AAACNAQAAHfoAAAAAAQAAAAL7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUBAAAAAAAAAVsAAAEmAQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAQAAAAD/////AAABRQEAAAMAAAABAAAAYAAAA8v8AgAAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAABQwAAAJIAAABOAQAAA/wAAAAhAAAC6gAAAAAA////+v////8BAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAAAAAAD/////AAAAYAEAAAP7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGABAAAD+wAAABIAdABpAG0AZQByAGUAbQBhAHABAAAAIQAAA8sAAAB5AQAAAwAAAAIAAAIWAAAB6vwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAZwEAAAP7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAAkwEAAAP7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAZQEAAAP7AAAACgBtAGkAeABlAHIAAAAD2gAAAGEAAABmAQAAA/sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAAAAAUUAAADFAAABRAEAAAP8AAABRQAAAIsAAACLAP////oAAAAAAQAAAAT7AAAAFgBlAGYAZgBlAGMAdABfAGwAaQBzAHQBAAAEoQAAAXkAAAAEAQAAA/sAAAAeAHQAcgBhAG4AcwBpAHQAaQBvAG4AXwBsAGkAcwB0AQAAAAD/////AAAABAEAAAP7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAP////8AAABcAQAAA/sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAABnAQAAA/sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AAAAAAD/////AAAAYAEAAAP7AAAAEgBTAHUAYgB0AGkAdABsAGUAcwAAAAAA/////wAAAYEBAAAD+wAAABAAYgBpAG4AXwBjAGwAaQBwAAAAAAD/////AAAEWAEAAAP7AAAAEAB0AGUAeAB0AGUAZABpAHQBAAAB0QAAAYoAAAGTAQAAA/sAAAAMAGcAdQBpAGQAZQBzAAAAAAD/////AAAA3gEAAAP7AAAAHgBvAG4AbABpAG4AZQByAGUAcwBvAHUAcgBjAGUAcwAAAAAA/////wAAATwBAAADAAACFwAAAeAAAAABAAAAAgAAAAEAAAAC/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAYAGUAeAB0AHIAYQBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorSchemePath=CatppuccinMochaBlue.colors
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAACAAAAGQAAAAHAAAAMAAAAAYAAAAxAAAABQAAAFQAAAAEAAAAMQAAAAMAAAA5AAAAAgAAAGUAAAABAAAAOQAAAGAAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAAAYAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAABB
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+lastCacheCheck=2024,2,2,18,7,19.448
+mltpath[$e]=/usr/share/mlt-7/profiles
+rendererpath[$e]=/usr/bin/melt-7
+
+[project]
+vaapiEnabled=true
+vaapiScalingEnabled=true
+
+[sdl]
+preferredcomposite=qtblend
+
+[timeline]
+trackheight=67
+
+[unmanaged]
+consumerslist=decklink,sdl,sdl_audio,sdl_preview,sdl_still,blipflash,xml,qglsl,cbrts,multi,null,sdl2,sdl2_audio,avformat,rtaudio,jack,xgl
+default_profile=atsc_1080p_25
+guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
+monitor_audio=false
+producerslist=decklink,blipflash,count,pgm,xml,xml-string,xml-nogl,vorbis,qimage,qtext,kdenlivetitle,pango,pixbuf,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,avformat,avformat-novalidate,glaxnimate,ladspa.1416,ladspa.1885,ladspa.1881,framebuffer
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=22.12.3

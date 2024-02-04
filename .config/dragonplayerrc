@@ -1,0 +1,74 @@
+[General]
+Recent Urls[$e]=file:$HOME/2024-02-04 14-30-43.mkv,file:$HOME/2024-02-04 14-38-24.mkv,file:$HOME/2024-02-04 14-39-20.mkv,file:$HOME/2024-02-04 14-40-21.mkv,file:$HOME/2024-02-04 14-40-45.mkv,file:$HOME/2024-02-04 14-41-30.mkv,file:$HOME/2024-02-04 14-42-31.mkv,file:$HOME/2024-02-04 14-48-45.mkv
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+2 screens: Height=1036
+2 screens: Width=636
+2 screens: XPosition=1282
+2 screens: YPosition=42
+DisplayPort-1 DisplayPort-2=DisplayPort-2
+State=AAAA/wAAAAD9AAAAAQAAAAEAAABJAAADjfwCAAAAAfsAAAAWAHYAbwBsAHUAbQBlAF8AZABvAGMAawAAAABlAAADjQAAAAAAAAAAAAACfAAAA40AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=1
+
+[file:///home/florin/2024-02-04 14-30-43.mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,2,4
+Hue=0
+IsVideo=true
+Preferred Size=636,909
+Saturation=0
+
+[file:///home/florin/2024-02-04 14-38-24.mkv]
+Brightness=0
+Contrast=0
+Date=2024,2,4
+Hue=0
+IsVideo=false
+Preferred Size=636,909
+Saturation=0
+
+[file:///home/florin/2024-02-04 14-39-20.mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,2,4
+Hue=0
+IsVideo=true
+Preferred Size=636,909
+Saturation=0
+
+[file:///home/florin/2024-02-04 14-41-30.mkv]
+Brightness=0
+Contrast=0
+Date=2024,2,4
+Hue=0
+IsVideo=false
+Preferred Size=636,909
+Saturation=0
+
+[file:///home/florin/2024-02-04 14-42-31.mkv]
+Brightness=0
+Contrast=0
+Date=2024,2,4
+Hue=0
+IsVideo=false
+Preferred Size=636,909
+Saturation=0
+
+[file:///home/florin/2024-02-04 14-48-45.mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,2,4
+Hue=0
+IsVideo=true
+Position=976
+Preferred Size=636,909
+Saturation=0

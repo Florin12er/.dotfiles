@@ -1,0 +1,71 @@
+[file:///home/florin/.config/lazygit/config.yml]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=YAML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=YAML
+Mode Set By User=false
+Time=2024,2,2,13,50,23.079
+URL=file:///home/florin/.config/lazygit/config.yml
+
+[file:///home/florin/.config/nvim/lua/FlorinVim/remap.lua]
+Bookmarks=
+Checksum=861a21fa1adee684528bcb6242061810e3490acb
+Encoding=UTF-8
+Highlighting=Lua
+Highlighting Set By User=false
+Indentation Mode=lua
+Mode=Lua
+Mode Set By User=false
+Time=2024,2,2,16,54,19.246
+URL=file:///home/florin/.config/nvim/lua/FlorinVim/remap.lua
+
+[file:///home/florin/.var/app/com.obsproject.Studio/config/obs-studio/logs/2024-02-02 18-06-21.txt]
+Bookmarks=
+Checksum=af2383e4fe1dd253d55eb6265d6aa97bd74c6e9b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,2,4,14,11,50.808
+URL=file:///home/florin/.var/app/com.obsproject.Studio/config/obs-studio/logs/2024-02-02 18-06-21.txt
+
+[file:///home/florin/Downloads/input-overlay-5.0.4-linux-x86_64.deb]
+Bookmarks=
+Checksum=172e619a28f9195dbc43a790987535883abfc7b5
+Encoding=ISO-8859-15
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,2,4,14,23,38.027
+URL=file:///home/florin/Downloads/input-overlay-5.0.4-linux-x86_64.deb
+
+[file:///home/florin/youtube_search.py]
+Bookmarks=
+Checksum=a39545f6b891a8cdf0c72ad7767f86a9901caf94
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,2,2,12,31,40.884
+URL=file:///home/florin/youtube_search.py
+
+[file:///nix/store/vi4qy4lfs947q0nxdsqlz2yni69jfbh1-nemo-6.0.2/share/applications/nemo.desktop]
+Bookmarks=
+Checksum=8338076355416d8ab4f2ee74464bf31337b20af7
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2024,2,2,11,10,9.484
+URL=file:///nix/store/vi4qy4lfs947q0nxdsqlz2yni69jfbh1-nemo-6.0.2/share/applications/nemo.desktop

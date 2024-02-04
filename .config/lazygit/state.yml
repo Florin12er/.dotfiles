@@ -1,0 +1,14 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/florin/.dotfiles
+- /home/florin/CV-application
+- /home/florin/.config/nvim
+- /home/florin/lazygit
+startuppopupversion: 5
+customcommandshistory:
+- q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 2
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical

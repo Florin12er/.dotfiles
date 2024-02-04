@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Créez une bibliothèque personnalisée d'invites d'IA"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Copier"
+   },
+   "enter_val": {
+      "message": "Entrer la valeur pour"
+   },
+   "launchSearch": {
+      "message": "Iniciar búsqueda"
+   },
+   "openSidebar": {
+      "message": "Ouvrir la barre latérale"
+   },
+   "placeholder": {
+      "message": "Tapez un message ou tapez \"/\" pour sélectionner une invite..."
+   },
+   "searchPrompts": {
+      "message": "Invites de recherche..."
+   },
+   "submit": {
+      "message": "Soumettre"
+   }
+}

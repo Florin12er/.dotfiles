@@ -1,0 +1,95 @@
+15:26:32.887: Using EGL/X11
+15:26:32.887: CPU Name: 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz
+15:26:32.887: CPU Speed: 4247.476MHz
+15:26:32.887: Physical Cores: 6, Logical Cores: 12
+15:26:32.887: Physical Memory: 15872MB Total, 7005MB Free
+15:26:32.887: Kernel Version: Linux 6.1.0-17-amd64
+15:26:32.887: Distribution: "Debian GNU/Linux" "12"
+15:26:32.887: Session Type: x11
+15:26:32.887: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+15:26:32.887: Qt Version: 5.15.8 (runtime), 5.15.8 (compiled)
+15:26:32.887: Portable mode: false
+15:26:32.932: OBS 29.0.2.1-1+b1 (linux)
+15:26:32.932: ---------------------------------
+15:26:32.932: ---------------------------------
+15:26:32.932: audio settings reset:
+15:26:32.932: 	samples per sec: 48000
+15:26:32.932: 	speakers:        2
+15:26:32.932: 	max buffering:   960 milliseconds
+15:26:32.932: 	buffering type:  dynamically increasing
+15:26:32.937: ---------------------------------
+15:26:32.937: Initializing OpenGL...
+15:26:32.974: Loading up OpenGL on adapter AMD AMD Radeon RX 6600 (navi23, LLVM 15.0.6, DRM 3.49, 6.1.0-17-amd64)
+15:26:32.974: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 22.3.6, shading language 4.60
+15:26:32.993: ---------------------------------
+15:26:32.993: video settings reset:
+15:26:32.993: 	base resolution:   1920x1080
+15:26:32.993: 	output resolution: 1280x720
+15:26:32.993: 	downscale filter:  Bicubic
+15:26:32.993: 	fps:               30/1
+15:26:32.993: 	format:            NV12
+15:26:32.993: 	YUV mode:          Rec. 709/Partial
+15:26:32.993: NV12 texture support not available
+15:26:32.993: P010 texture support not available
+15:26:32.994: Audio monitoring device:
+15:26:32.994: 	name: Default
+15:26:32.994: 	id: default
+15:26:32.994: ---------------------------------
+15:26:32.995: Failed to load 'en-US' text for module: 'decklink-captions.so'
+15:26:32.996: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+15:26:32.997: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:26:32.997: Failed to initialize module 'decklink.so'
+15:26:33.016: os_dlopen(/usr//lib/x86_64-linux-gnu/obs-plugins/input-overlay.so->/usr//lib/x86_64-linux-gnu/obs-plugins/input-overlay.so): libQt6Widgets.so.6: cannot open shared object file: No such file or directory
+15:26:33.016: 
+15:26:33.016: Module '/usr//lib/x86_64-linux-gnu/obs-plugins/input-overlay.so' not loaded
+15:26:33.023: [pipewire] No captures available
+15:26:33.061: VAAPI: API version 1.17
+15:26:33.061: FFmpeg VAAPI H264 encoding supported
+15:26:33.066: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+15:26:33.066: [obs-websocket] [obs_module_load] Qt version (compile-time): 5.15.8 | Qt version (run-time): 5.15.8
+15:26:33.066: [obs-websocket] [obs_module_load] Linked ASIO Version: 102201
+15:26:33.071: [obs-websocket] [obs_module_load] Module loaded.
+15:26:33.075: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+15:26:33.076: os_dlopen(/home/florin/.config/obs-studio/plugins/input-overlay/bin/64bit/input-overlay.so->/home/florin/.config/obs-studio/plugins/input-overlay/bin/64bit/input-overlay.so): libQt6Widgets.so.6: cannot open shared object file: No such file or directory
+15:26:33.076: 
+15:26:33.076: Module '/home/florin/.config/obs-studio/plugins/input-overlay/bin/64bit/input-overlay.so' not loaded
+15:26:33.076: ---------------------------------
+15:26:33.076:   Loaded Modules:
+15:26:33.076:     vlc-video.so
+15:26:33.076:     text-freetype2.so
+15:26:33.076:     rtmp-services.so
+15:26:33.076:     obs-x264.so
+15:26:33.076:     obs-websocket.so
+15:26:33.076:     obs-transitions.so
+15:26:33.076:     obs-outputs.so
+15:26:33.076:     obs-filters.so
+15:26:33.076:     obs-ffmpeg.so
+15:26:33.076:     linux-v4l2.so
+15:26:33.076:     linux-pulseaudio.so
+15:26:33.076:     linux-pipewire.so
+15:26:33.076:     linux-jack.so
+15:26:33.076:     linux-capture.so
+15:26:33.076:     linux-alsa.so
+15:26:33.076:     image-source.so
+15:26:33.076:     frontend-tools.so
+15:26:33.076:     decklink-output-ui.so
+15:26:33.076:     decklink-captions.so
+15:26:33.076: ---------------------------------
+15:26:33.076: ==== Startup complete ===============================================
+15:26:33.103: All scene data cleared
+15:26:33.103: ------------------------------------------------
+15:26:33.105: pulse-input: Server name: 'pulseaudio 16.1'
+15:26:33.105: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+15:26:33.105: pulse-input: Started recording from 'alsa_output.usb-SteelSeries_Arctis_Nova_Pro_Wireless-00.analog-stereo.monitor' (default)
+15:26:33.105: [Loaded global audio device]: 'Desktop Audio'
+15:26:33.105: pulse-input: Server name: 'pulseaudio 16.1'
+15:26:33.105: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+15:26:33.105: pulse-input: Started recording from 'nui_mic_remap' (default)
+15:26:33.105: [Loaded global audio device]: 'Mic/Aux'
+15:26:33.106: Switched to scene 'Scene'
+15:26:33.106: ------------------------------------------------
+15:26:33.106: Loaded scenes:
+15:26:33.106: - scene 'Scene':
+15:26:33.106: ------------------------------------------------
+15:26:35.386: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+15:26:35.386: 

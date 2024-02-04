@@ -1,0 +1,7 @@
+Threshold = 95
+DisplayMonitorSources = false
+EnableUpdates = true
+FilterInput = true
+FilterOutput = false
+LastUsedInput = "alsa_input.usb-Samson_Technologies_Samson_Q9U_ABF62D060D093B00-00.mono-fallback"
+LastUsedOutput = ""

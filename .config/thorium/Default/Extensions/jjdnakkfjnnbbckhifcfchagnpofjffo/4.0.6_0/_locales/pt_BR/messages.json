@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Crie uma biblioteca personalizada de prompts de IA"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "enter_val": {
+      "message": "Digite o valor para"
+   },
+   "launchSearch": {
+      "message": "Iniciar pesquisa"
+   },
+   "openSidebar": {
+      "message": "Abrir a barra lateral"
+   },
+   "placeholder": {
+      "message": "Digite uma mensagem ou digite \"/\" para selecionar um prompt..."
+   },
+   "searchPrompts": {
+      "message": "Prompts de pesquisa..."
+   },
+   "submit": {
+      "message": "Enviar"
+   }
+}

@@ -1,0 +1,269 @@
+{
+   "checksum": "f2f11229e55dad379aff8405068b5bbc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13342723653270690",
+            "date_last_used": "13344631740820928",
+            "guid": "83cc383c-0718-4db6-818d-832558367a79",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13351350025199876",
+            "date_last_used": "0",
+            "guid": "9e8a5e50-441a-45a8-8af5-ef591fd22bbc",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Your Career in Web Development Starts Here | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/"
+         }, {
+            "date_added": "13336764326409360",
+            "date_last_used": "13351357243442760",
+            "guid": "e164d5d2-734b-4ae6-8e65-ae349504adb6",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13351342495853066",
+            "date_last_used": "13351347415681739",
+            "guid": "c2e12497-7f2c-481e-b823-6917cfd13553",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NixOS Search - Packages",
+            "type": "url",
+            "url": "https://search.nixos.org/packages"
+         }, {
+            "date_added": "13340649856609282",
+            "date_last_used": "13344508980392840",
+            "guid": "ace87956-f86a-48ec-b2c0-bf2fa4c11533",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Fonts",
+            "type": "url",
+            "url": "https://fonts.google.com/"
+         }, {
+            "date_added": "13342472985922365",
+            "date_last_used": "0",
+            "guid": "20053fdf-a380-4179-8991-7b082f86412a",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Material Design Icons - Icon Library - Pictogrammers",
+            "type": "url",
+            "url": "https://pictogrammers.com/library/mdi/"
+         }, {
+            "date_added": "13344293479589029",
+            "date_last_used": "0",
+            "guid": "bb794da1-b7e7-4982-9175-4355d79479c4",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CS50 Certificate - CS50x 2023",
+            "type": "url",
+            "url": "https://cs50.harvard.edu/x/2023/certificate/"
+         }, {
+            "date_added": "13351353811559902",
+            "date_last_used": "13351364826189566",
+            "guid": "60d6491b-d2a8-4849-b5e1-500e2bd5818d",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13344632922970481",
+            "date_last_used": "0",
+            "guid": "1b74c43c-e6dc-4ee5-a5c9-b7ab7f32332c",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vim cheatsheet",
+            "type": "url",
+            "url": "https://devhints.io/vim"
+         }, {
+            "date_added": "13351353932347169",
+            "date_last_used": "0",
+            "guid": "18c7f79a-b9f3-43ea-98a6-50540949ce16",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cautious Movement",
+            "type": "url",
+            "url": "https://www.skool.com/cautious-movement-3999"
+         } ],
+         "date_added": "13351341928536569",
+         "date_last_used": "0",
+         "date_modified": "13351362417780775",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13351341928536570",
+         "date_last_used": "0",
+         "date_modified": "13351342495853066",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13281212553677478",
+            "date_last_used": "0",
+            "guid": "3b096f23-91b0-4c82-9f12-25afe1d826bf",
+            "id": "5",
+            "name": "Anmelden – Google Konten",
+            "type": "url",
+            "url": "https://accounts.google.com/o/oauth2/auth/deniedsigninrejected?access_type=offline&client_id=26197772679-8sr90udq04saql2oea4qeec86omckri6.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fgleam.io%2Fauth%2Fyoutube%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly%20email%20profile&state=1e40c03614d5b6a91437c57e3c9a92243c09ae1398c87577&flowName=GeneralOAuthFlow"
+         }, {
+            "date_added": "13286082505405673",
+            "date_last_used": "0",
+            "guid": "33ab19f3-3fd1-4868-9058-27b96fb71a9b",
+            "id": "6",
+            "name": "Persönliche Daten",
+            "type": "url",
+            "url": "https://www.epicgames.com/account/personal"
+         }, {
+            "date_added": "13286620879116151",
+            "date_last_used": "0",
+            "guid": "13b9387b-8d8c-4f2f-837e-590e735b6733",
+            "id": "7",
+            "name": "GOETHE-ZERTIFIKAT B1 Modellsatz - Lesen",
+            "type": "url",
+            "url": "http://bfu.goethe.de/b1_mod/lesen.php"
+         }, {
+            "date_added": "13290260375719117",
+            "date_last_used": "0",
+            "guid": "62cd738e-37a9-464c-9266-b87d30d0b072",
+            "id": "8",
+            "name": "ModZoVa - Mobile Games",
+            "type": "url",
+            "url": "https://www.modzova.com/"
+         }, {
+            "date_added": "13291425542522922",
+            "date_last_used": "0",
+            "guid": "9cb28c9f-c271-487a-803f-ff41ea3f0905",
+            "id": "9",
+            "name": "PC Systeme & Komponenten online kaufen | CASEKING",
+            "type": "url",
+            "url": "https://www.caseking.de/"
+         }, {
+            "date_added": "13292411187288085",
+            "date_last_used": "0",
+            "guid": "7922643d-fae8-404c-9a2a-2028130f585f",
+            "id": "10",
+            "name": "Alles zur: UNO - Tagesspiegel Mobil",
+            "type": "url",
+            "url": "https://m.tagesspiegel.de/themen/uno/"
+         }, {
+            "date_added": "13297781965875359",
+            "date_last_used": "0",
+            "guid": "64d7c249-b390-434f-ac8b-93e6584be5d6",
+            "id": "11",
+            "name": "Amazon.com: Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard (Customizable Per-Key RGB Backlighting, CHERRY MX Speed Mechanical Keyswitches, Detachable USB Type-C Cable, AXON Hyper-Processing Technology) Black : Electronics",
+            "type": "url",
+            "url": "https://www.amazon.com/gp/product/B08W2CSXLM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08W2CSXLM&linkCode=as2&tag=dawiddoes-20&linkId=44ab4bcc5e0038323a08d0c2091ce586"
+         }, {
+            "date_added": "13319422899298433",
+            "date_last_used": "0",
+            "guid": "ced2c955-dfb5-456a-adb0-031a985f29d1",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Scooby-Doo! Mystery Incorporated: 1x1 - Watch Movies Online",
+            "type": "url",
+            "url": "https://yourmovies.xyz/episodes/scooby-doo-mystery-incorporated-1x1/"
+         }, {
+            "date_added": "13327668560725307",
+            "date_last_used": "0",
+            "guid": "f1a42f1c-4540-4b31-aa18-19bc4000a791",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Write an Entertaining YouTube Video Script",
+            "type": "url",
+            "url": "https://vidiq.com/blog/post/write-youtube-video-script/#post-author-box"
+         }, {
+            "date_added": "13327876484272714",
+            "date_last_used": "0",
+            "guid": "5d05180c-80e3-417e-a13a-c38a57f1d539",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Citește Biblia online, Noul Testament, Vechiul Testament - Resurse Creștine",
+            "type": "url",
+            "url": "https://biblia.resursecrestine.ro/"
+         }, {
+            "date_added": "13329125997637008",
+            "date_last_used": "0",
+            "guid": "3b5efd34-2407-4659-8218-a7a9ef36853d",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Neuer Tab",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13337524265543338",
+            "date_last_used": "0",
+            "guid": "14a9132f-386d-4af8-a577-af9d5c144fa1",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/?model=text-davinci-002-render-sha"
+         }, {
+            "date_added": "13341056209725919",
+            "date_last_used": "0",
+            "guid": "6a7652d3-009a-4bd4-bccf-4310ee67be3c",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cannabis: Wann kommt die Legalisierung in Deutschland? | NDR.de - Ratgeber - Verbraucher",
+            "type": "url",
+            "url": "https://www.ndr.de/ratgeber/verbraucher/Cannabis-Wann-kommt-die-Legalisierung-in-Deutschland,cannabisfaq100.html"
+         } ],
+         "date_added": "13351341928536571",
+         "date_last_used": "0",
+         "date_modified": "13341056209725919",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCXblDMBmEAYAEXblDMBmEAYAKYvyDMBmEAYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgD37umYQBgARgD37umYQBgApVeIMwGYQBgAwgPvs1+uMhAMSACoYZENsL0ErM0lKenB3bmpPTFUrRURqUT09SAMS7QEIIRLoAQocRzljSGFxdldWd3RZaThYa3VCZmlxMWtxQUZRPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4cDBDQTI5T25BbzVtaWUyMTlvK1dPb05WaUFNczk5aGVPdWRvN1hHMUpoazJ2Q01xRG9WM01iZGpDTUJmL1BwanE5dXJMZz09GAAgBCgEMIC5r8f3jIQDOLzk+8/WMUDruvHS1jFKHG56VHpWU2pCQWRaRzR6VEJPMzY2dDJHREJOZz1aICIe//5zRUE1dHFsNHU2eUx4bjg0bmhMN1lacjF2WVk9Zb398aAS7QEIERLoAQocZ0xjSjdQS2RweXNkZ0xPVyt3dHYwN3NMQzdFPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4NlJySjR6WE5TaUxNM1cwNnVXZ1hjSUZzTnRiQmxlM0JsU2NsMGJvSFlLTWgvbHRZcURNRW8wcWVPbi8xUUxJV0c3eVozUT09GAAgACgAMNGX7N6G4YEDOL7W0KGwMUC+1tChsDFKHG1DSFRObSt4alJZMmpaZG1ma1JYdHdQUEN6VT1aICIe/+x0WFdGSk1KeTBMTER1aUs4VTRIWEpiUERKTjQ9ZRUAqQgS7QEIIBLoAQocUk1LWEtlUXR5amJQblg4WUJxckMxck1WMjA4PRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4MlQ2QnZEY1dKUXVLcG5nUE4xRTVPbzN6VVJpald2czBGV2FJK3ROZDNGR24veVlZVCtwblp6NlIzY3lLSktDYUgvZlpBZz09GAAgAygDMNXBn66AjYQDOOi09M/WMUD12IHU1jFKHHU5MytzWWZ3djN0R0xLWkVLaURWcEJjdDNQMD1aICIe/9BoQ2JYTGhTT1hxWTI0bk5Ea2lSblpSSzMxM2c9ZRX0gJgSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3S2JJWUlPNnhxT3VsMkhKVXdiV2VpN0pHRGN4UkJia0JaQ2NnZWhwN1lVcWxXajJiZ3VkQi8xZDh4amZ5U0FBY1NzV3hTYlNYNUl1VXZObE52N1o3dUN4Nnpzdz09GAAgACgAMMSC/bW0jIQDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp3Yjd4MHJSR2FtRElNcGhHVUVnTHQrVVhzMTR6QjJMN09wY1ZZbFUyZ051QjJwU1dVMXhlQVZ1OFBIeVE2R1RVOW5qRzFqZHl4N0Ira2MrQ3ppVzZBMlJSUnJTQT09GAAgACgAMMSC/bW0jIQDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7AEIEhLnAQocaWxQQjBjTTVuYksvejNCWVIra0M5OXRYR0NzPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4aXEwV0ZlbFkvSE11bkllRXVmTDRYQjNFZU1oMWxqY1FzamdSekNyK1dqNnRIZktJNnltN1hEaytsMVFMNm44TU83NUNkZz09GAAgAigCMOqrgbi0jIQDOOSEy9CfMUDr26XK1jFKHGx5dVo2SC9RVGprdnJ6S0VjV21ySGIzMUxURT1aHyId7XFWZzltaWNvOEJGMFhPaUJoemZaN2ZUMUVoND1lxc+QARLtAQgQEugBChxUZ3RrdDR1UkF2cmxlRVE1Zk1CdWNZMC9IU2M9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXhNZk40SmdQT1p5QkZ2Nk5MTitZNUNjRFZHLytlWEU5cmxyM3R1MDdreTR5VFNZUHJGWm9SK1RzeUszaFZhRUpXb2FyaDN3PT0YACAAKAAw7ZiXnaH6gAM4yPS7jaMxQMj0u42jMUoccHc3QzdHd0NJeDMrTzI4aytNcHR3cSsrdGFJPVogIh7/2FJqWkNHWFIrdXJFSmo0cWtJdzYxWGJzb0wrUT1laRsi8xLsAQgTEucBChxzM3NVd2RKZTh4eXl0RVRWWStjMFpuOWtiSmc9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXhSYVJYSWVGSlRrRnhaV3lGbWtPL1ZGdWo5MUVLdGtwd09zQkZPNCtXdS9IbUMxT1d0UjdHcmp2OXFaMmNMRmpiYlF0and3PT0YACADKAMwp/vcz7SMhAM4ivSMo6AxQMLmqMrWMUocTFQ2V2V4VnNtZ0dlWWpvUGs5K2hxQ3QwN0E4PVofIh32V3NITURtakJPa00zY1NDbldDS0hWWVdjVEVrPWXApSi6EuwBCAsS5wEKHFViclB1M3NnTjM0S0loVmhuVTZqbjZZaVExND0SZlo6QURxdEFad3lYcnNrVVEveTdPbEoxUFZIU2s5eEhaRzlYMnk2d283U1R4elZCbkdjQ2k5QXZyWHYydEdRMFRoazh5cTREOFhDVUVJdFp2eWFsSEJQTXp2R3lmOUNFZTN5UHc9PRgAIAAoADCQkqunzsL7Aji0uO6GjzBAtLjuho8wShxwVlQwWGRIV0pqQVljNzQ3NitORFBEaE5NK1U9Wh8iHf11KzdvRFp0WHlYTHpIekdxdTN3ZFNDS3N1SjQ9ZWjGZ9kS7QEIDxLoAQocQ1V4WmowZ1JhWmthS29XL3I5SWxxYlRVT0JBPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4OEtrMFFwU013Tmoza1RFSkVoS0RNanEvaVUrWjNESVpaSUJ0cVRwckV4NWwxZ1JwaUNHQUZka3cxMjZMMzRmTENxR1BqUT09GAAgACgAMKzM+p7rhf8COMWo7uiDMUDFqO7ogzFKHFVyNlkwZVo5dVlhaWVEem1EQytuSnV2RURBcz1aICIe/7E3YjFxODBpS0lON1BwaDgwa1grdnlCb1RZczA9ZQAAAAAS7AEIDhLnAQocT2tLT2RrK1BGeERDL3RoRUpIUjJDdCtKYnVNPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4YTNXRjJzMXhKSEp5K3VSR1ovTHl4aVd0NkYvaWxDcWs0OG9sMVV3V21VWjQzK1BnQ24xNy9iVXZSaHhTenNOQisrSS9Gdz09GAAgACgAMLCUo7i84f4COLGJhpX/MECxiYaV/zBKHG9ySWxDUElhSDJBNVNoU0JDaVljak5ESWJLRT1aHyId/2NORHhwWnpUYzlwNmhxOXJhU1dRZGFwR3YxWT1lP3eUShLsAQgeEucBChwzMDI2SmJBNkl3a0dkd1Y3ZXp3VFVlb0t2YUU9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXhwOHZTbXZScGdwclJyVTh3cE5vaFMwanpjVDV4dVhjdkoyT3RuNkgxdFhtN1Y4ZEFUNFduMFNtNFdKMVNBTFMydDg4b0JRPT0YACADKAMwvIOFm9KMhAM48aeNztYxQO7Jjc7WMUocZVNmdHpTby9WMGo1SHRtdEZ1U1p3d2JrUklFPVofIh3xQzE2VUhkdTh3dkVML2tVcTd1ZUFTQjQyQTNvPWU4e2AZEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFadytSQVErTm94cmxTNjVpREZoYTJtMkxHQld3aVArdDZET1FuNG11TW5nakpnbVVEMHpFR2VLQ1MwTm1YTDYyZVBLekFtUhgAIAAoADDEgv21tIyEAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCBQS5wEKHG1LNjEyaUdIanFib0xDN1NROUFwZTBMUmNTdz0SZlo6QURxdEFad3lYcnNrVVEveTdPbEoxUFZIU2s5eEdCZ0QzOEt4cGt6NjhMNEoxV1dMWnRqdHphcU9hWXM2R2pzd3MrSGtNbkZkNXdNUlA5MjhqZzJvZW1QSlVVcTBCa3QzcGc9PRgAIAIoAjDqq4G4tIyEAzjh7O7frjFA69ulytYxShxJQnlSVXVEdlIzYVBNS0xkZ0dVcUNEdjJJTEE9Wh8iHftTZjUycE9ERGM4cDZ4VTBDYmdZOHRKMy9jYW89ZQdoU5sS7AEIBxLnAQocK3J0SnpzVVNkRXdma0JpMlI1enpjNERYeTU4PRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4ZWhwaWNYd3pjV2pmV0ppR2gvVEQwelFtcVVLejNmZk00Vk14YkluL2xQdHhnRzIvdSt3MzQzV3BFeWRudGR4Y0FVbDg5QT09GAAgACgAMJCSq6fOwvsCOIzi67zlL0CM4uu85S9KHHlJd2I4bTBmcFlVcWJhQ3RUVUp4OUZ6eldhdz1aHyId1DlrNE92eVl1bVF1Q2VqL3NDWC8xUFE3SVhsaz1lAAAAABLsAQgIEucBChxWN1lBTE5yRjdyc2REd0ppMjlRWmg3RG1lVjA9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXh3dEtjNDVramhCQU1rck4rYXU1Qk9CVC9FWTFZYWxjdGZESFVuZm5uV1BMZzVWenY1RTJjRTJnWmszYTVJSXJTcVJSK1h3PT0YACAAKAAwkJKrp87C+wI4p4GlhPMvQKeBpYTzL0ocRnh0STB6TXkvWGE3U2NxVVRpVUozaU5wWTZZPVofIh3qV3hWcWU2RjdLL0lmQitBcUgyOS9YQWdJaTdVPWWIJ9QkEuwBCAoS5wEKHFpWK2hTMVR2U2hkajZiVDYzV0JmRUwrY3p6ND0SZlo6QURxdEFad3lYcnNrVVEveTdPbEoxUFZIU2s5eG9GbU9jTVJGQThDOUNpN01vcFc4QXFndENGWHRCNW9jdGFHUmNDajNPWmFRUzUrSStQUzFxSXVrK3JUVmxWMkxZRzJ4VXc9PRgAIAAoADCQkqunzsL7AjjakPCF+y9A2pDwhfsvShx2T2Z4bHFhTkp3azFYWVZZZ3E0Mml4S1pXUnc9Wh8iHfpaQU50MTE3SUhaWGdJaVFuSUpQTElvWStNZ009ZS7Q1nYS7QEIFxLoAQocNTFibnZhTStqVnk5cXAwTmNXZ2RUaHJhNnFRPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4MTFBY0hXK0QvVEk5WHpwS2V0T0VOTjJPbVJId3FmTG1vQ09PaTE0VXAwZzF6dEJybkp6VHVNVmZraDBTWGNDSVZXQ1k1Zz09GAAgAigCMOqrgbi0jIQDOKX5o6m8MUDs26XK1jFKHHdqOUJQQ2F3TEo1eU15bE5hT0VDYXpYamNqaz1aICIe/6c0ZGhmdHZGSitkOHJUL2dYWTkwcXhuZjJldW89ZWf+GXAS7QEIGxLoAQocMklWZGxLcWx1WVJaOWo5VkY3UFRwVktXZ3ZvPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4bzNKYXdCNmRoc08ydlFEMjJHWkhsZzJOZEtVMlRQOHFrRWJoZ2R0c2dNRHpxK01UemxmcE1ObjRFczJkV3JxaUk2Ym03UT09GAAgAigCMOqrgbi0jIQDONr2kcu9MUDt26XK1jFKHDBDclI5UGgwY3AzWkJRUHViRXJUbjh4bGg1az1aICIe//pqck55enpjK1lrUDVCV2NpWDhoeTNVMUpmUFk9ZcIBI7IS7AEIHBLnAQocNEpnRmE3VG5UbXM2MFdBOEtNMUlRN01KNlZZPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4QlpPMTJweU8ra2VCSm04dWs2Qllsb2hQTUhaNm13dUc0OFdXWGpaY2l3b2tDZ1pBcy9nOVgyRU1xRktzMTgxc3ZmNlF0Zz09GAAgBCgEMNOfpJW2jIQDOO3gwcrWMUD3mMLK1jFKHEpVYjdQUG04NUpSSnNianpPRU5BOUt4eWN6UT1aHyId+Ctrb2ozZFNVcTFsYXQvZEl0MUFvVjcwT0tlYz1lcVoG3hLsAQgMEucBChxpcGgrUks5Nmw5cXl0R1lUQ3h0NzB6V1N2eEE9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXhlUmVSL0hLc0taT29wdytDQ3paRVBidTNOUUpNWE52a0N0R2w5NkQwUVJPTDQwQjFReFZ3Q0RQTWlrUkRZa0drWW9iZExRPT0YACAAKAAw07HKsLjr/AI445iI1t8wQOOYiNbfMEocR0p3c1cwUWdsVGlseGYvWExmMXNJZEx2WjVzPVofIh3+VkF6Q1FqeURJSGpwRU5YaGFrbUNlWUpJSWFzPWVsdipIEuwBCAYS5wEKHEpxTmFld3pWN042UWMvemVIcGQxVndRT1BRRT0SZlo6QURxdEFad3lYcnNrVVEveTdPbEoxUFZIU2s5eDFscVRrVU5BY05xNVFUcC95S0syWmcrVHFYcHIzbFowZ3dLRnZpTmdjd25zdERpdkc0RlZjRU5tVUJFL2tpTm5ncHpmQlE9PRgAIAAoADCQkqunzsL7AjjAhZC84y9AwIWQvOMvShx2TXhJYjhPVnVZTWlWRUNYL0hhUmxnMVQxSGM9Wh8iHag1KzFEVFhHR1hiT3BScG9mNHplRlh6VlNyNVk9ZTReCkAS7AEICRLnAQocbTBOaTRMNkJNcmQ1L0JBTjF2dFh3MFJFcXVnPRJmWjpBRHF0QVp3eVhyc2tVUS95N09sSjFQVkhTazl4WmorVVR3dlhaVW9Mb2Mrc0NoNnZEYytIemFiYUZCSnNVUmVCL2pDY280ZnpxQlN2eTRYanZYU0xZSlRvOWdiQ3hrVS9vQT09GAAgACgAMJCSq6fOwvsCOPuS8a/3L0D7kvGv9y9KHDdkcE5zeDFSUll1a2p6MTd3ZTJ4Nmd4c1VNbz1aHyId9S9UbXdySUdMRExQTW5ZVVQxeXQ1VGRkZTFHWT1lAkBYCRLsAQgWEucBChwxVjdSV3VKTkQ0MzllZzYrcVdoK3JvOUtORDQ9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXhSSU1CNExRb0lSTkpTTnUwSjNxQldzc21kZDVIOFQrejZKUmxBN3FHSVFoM0V6dElEalBsS1dvSnBQazhhTml5Znhscjd3PT0YACACKAIw6quBuLSMhAM4wuqZxbUxQOzbpcrWMUocOVBnMXVwZ1RzZjc3V2hQNVJCQm1RdzB6anRjPVofIh3/T3Z1QTFzRFJwdVdBc1NsRU1ac3lzWUk1VUR3PWUU09cAEusBCAUS5gEKHFlaMmtPWjdtSWhFYk5iM2Y4dkpMVEdieUtWaz0SZlo6QURxdEFad3lYcnNrVVEveTdPbEoxUFZIU2s5eGNhc0ZXc0dPTjVNZVBSdmVlMFV5eWQ1U3BTSkpCd24wRDVEb0RTWFNDK0k4bEZXSG1oSVByeUlVS2toNFV0Y3E4RDNJMlE9PRgAIAAoADDOpLyHjt+AAzjO4/mp0S9AzuP5qdEvShw4TDdFRThETEx5WU5qdnUzWlVnNk82TjZhM2c9Wh4iHFBLY2dQU1c2VVYwTGlMK0M2ZnVobTNPV0xvYz1lEDD/5BLsAQgNEucBChxpSXFGZDBTYmtlS1ZSNEdMZ3BraVBYeFJtNDA9EmZaOkFEcXRBWnd5WHJza1VRL3k3T2xKMVBWSFNrOXhhWjkzZ2J5bWlLOWl1VUVTTWM4ZUNoYVpNWTEwUGV6aUZoOUlVbTZ3Y2d6ckVZdWx3SnBDdnBqZG5lUCtZS21ONTFlbVdBPT0YACAAKAAwn6aY77Xb/gI41bbzsf4wQNW287H+MEoceUVqZUlZZE9TajY0NE5rMnQ0Y3BsTVpPWDFzPVofIh3/T2hlMnhsbkVnSW92T1lMSXZJbU04Yy9WaFNjPWV9ZK+4MAE4AA==",
+   "version": 1
+}

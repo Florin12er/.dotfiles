@@ -1,0 +1,7 @@
+2024/02/02-14:06:35.504 a93a Reusing MANIFEST /home/florin/.config/thorium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/02-14:06:35.504 a93a Recovering log #3
+2024/02/02-14:06:35.504 a93a Reusing old log /home/florin/.config/thorium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/000003.log 
+2024/02/02-14:06:38.723 a93b Level-0 table #5: started
+2024/02/02-14:06:38.725 a93b Level-0 table #5: 1210 bytes OK
+2024/02/02-14:06:38.726 a93b Delete type=0 #3
+2024/02/02-14:06:38.726 a93b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

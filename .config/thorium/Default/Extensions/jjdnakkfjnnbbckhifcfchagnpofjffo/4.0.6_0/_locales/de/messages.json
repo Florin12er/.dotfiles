@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Erstellen Sie eine benutzerdefinierte Bibliothek mit KI-Prompts"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Kopieren"
+   },
+   "enter_val": {
+      "message": "Wert eingeben für"
+   },
+   "launchSearch": {
+      "message": "Suche starten"
+   },
+   "openSidebar": {
+      "message": "Öffne die Seitenleiste"
+   },
+   "placeholder": {
+      "message": "Geben Sie eine Nachricht ein oder tippen Sie \"/\", um eine Aufforderung auszuwählen..."
+   },
+   "searchPrompts": {
+      "message": "Suchaufforderungen..."
+   },
+   "submit": {
+      "message": "Senden"
+   }
+}

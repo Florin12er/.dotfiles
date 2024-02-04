@@ -1,0 +1,45 @@
+2024/02/02-15:15:43.505 4 Reusing MANIFEST /home/florin/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/02/02-15:15:43.506 4 Recovering log #59
+2024/02/02-15:15:43.507 4 Reusing old log /home/florin/.config/thorium/Default/Local Storage/leveldb/000059.log 
+2024/02/02-16:09:34.484 4 Level-0 table #64: started
+2024/02/02-16:09:34.496 4 Level-0 table #64: 23166 bytes OK
+2024/02/02-16:09:34.503 4 Delete type=0 #59
+2024/02/02-16:51:53.471 6 Level-0 table #66: started
+2024/02/02-16:51:53.474 6 Level-0 table #66: 18516 bytes OK
+2024/02/02-16:51:53.478 6 Delete type=0 #63
+2024/02/02-17:18:39.825 6 Level-0 table #68: started
+2024/02/02-17:18:39.837 6 Level-0 table #68: 14579 bytes OK
+2024/02/02-17:18:39.842 6 Delete type=0 #65
+2024/02/02-17:52:13.402 6 Level-0 table #70: started
+2024/02/02-17:52:13.404 6 Level-0 table #70: 47231 bytes OK
+2024/02/02-17:52:13.406 6 Delete type=0 #67
+2024/02/02-17:52:13.406 6 Compacting 4@0 + 1@1 files
+2024/02/02-17:52:13.410 6 Generated table #71@0: 1292 keys, 270937 bytes
+2024/02/02-17:52:13.410 6 Compacted 4@0 + 1@1 files => 270937 bytes
+2024/02/02-17:52:13.412 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/02-17:52:13.412 6 Delete type=2 #68
+2024/02/02-17:52:13.412 6 Delete type=2 #61
+2024/02/02-17:52:13.412 6 Delete type=2 #70
+2024/02/02-17:52:13.412 6 Delete type=2 #64
+2024/02/02-17:52:13.412 6 Delete type=2 #66
+2024/02/02-18:05:33.888 6 Level-0 table #73: started
+2024/02/02-18:05:33.898 6 Level-0 table #73: 39303 bytes OK
+2024/02/02-18:05:33.899 6 Delete type=0 #69
+2024/02/02-18:10:08.513 6 Level-0 table #75: started
+2024/02/02-18:10:08.523 6 Level-0 table #75: 37698 bytes OK
+2024/02/02-18:10:08.525 6 Delete type=0 #72
+2024/02/02-18:11:26.460 6 Level-0 table #77: started
+2024/02/02-18:11:26.476 6 Level-0 table #77: 136129 bytes OK
+2024/02/02-18:11:26.480 6 Delete type=0 #74
+2024/02/02-18:14:03.126 6 Level-0 table #79: started
+2024/02/02-18:14:03.139 6 Level-0 table #79: 82302 bytes OK
+2024/02/02-18:14:03.144 6 Delete type=0 #76
+2024/02/02-18:14:03.145 6 Compacting 4@0 + 1@1 files
+2024/02/02-18:14:03.161 6 Generated table #80@0: 1319 keys, 286027 bytes
+2024/02/02-18:14:03.161 6 Compacted 4@0 + 1@1 files => 286027 bytes
+2024/02/02-18:14:03.163 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/02-18:14:03.164 6 Delete type=2 #77
+2024/02/02-18:14:03.164 6 Delete type=2 #75
+2024/02/02-18:14:03.164 6 Delete type=2 #71
+2024/02/02-18:14:03.164 6 Delete type=2 #73
+2024/02/02-18:14:03.164 6 Delete type=2 #79

@@ -1,0 +1,29 @@
+{
+   "appDesc": {
+      "message": "Создайте собственную библиотеку приглашений для ИИ"
+   },
+   "appName": {
+      "message": "AI Prompt Genius"
+   },
+   "copy": {
+      "message": "Копировать"
+   },
+   "enter_val": {
+      "message": "Введите значение для"
+   },
+   "launchSearch": {
+      "message": "Запустить поиск"
+   },
+   "openSidebar": {
+      "message": "открыть боковую панель"
+   },
+   "placeholder": {
+      "message": "Введите сообщение или нажмите \"/\", чтобы выбрать подсказку..."
+   },
+   "searchPrompts": {
+      "message": "Поисковые подсказки..."
+   },
+   "submit": {
+      "message": "Отправить"
+   }
+}
