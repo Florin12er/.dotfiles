@@ -77,13 +77,13 @@ z4h load   ohmyzsh/ohmyzsh/plugins/emoji-clock  # load a plugin
 z4h bindkey z4h-backward-kill-word  Ctrl+Backspace     Ctrl+H
 z4h bindkey z4h-backward-kill-zword Ctrl+Alt+Backspace
 
-z4h bindkey undo Ctrl+/ Shift+Tab  # undo the last command line change
-z4h bindkey redo Alt+/             # redo the last undone command line change
+z4h bindkey undo Ctrl+/ Shift+Tab Ctrl+Z # undo the last command line change
+z4h bindkey redo Alt+/ Ctrl+Y             # redo the last undone command line change
 
-z4h bindkey z4h-cd-back    Alt+Left   # cd into the previous directory
-z4h bindkey z4h-cd-forward Alt+Right  # cd into the next directory
-z4h bindkey z4h-cd-up      Alt+Up     # cd into the parent directory
-z4h bindkey z4h-cd-down    Alt+Down   # cd into a child directory
+z4h bindkey z4h-cd-back    Alt+Left Alt+H   # cd into the previous directory
+z4h bindkey z4h-cd-forward Alt+Right Alt+L  # cd into the next directory
+z4h bindkey z4h-cd-up      Alt+Up Alt+K     # cd into the parent directory
+z4h bindkey z4h-cd-down    Alt+Down Alt+J   # cd into a child directory
 
 # Autoload functions.
 autoload -Uz zmv
