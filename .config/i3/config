@@ -256,6 +256,8 @@ exec --no-startup-id lxappearance --apply
 bindsym $mod+Shift+f exec rofi -show drun
 exec --no-startup-id xrandr --output DisplayPort-1 --primary
 
+# Keyscreen
+exec_always --no-startup-id /home/florin/scripts/autostart.sh
 
 # Restart
 bindsym $mod+Shift+n exec --no-startup-id xterm -e "sudo reboot"

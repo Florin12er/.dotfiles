@@ -561,7 +561,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][225][Applets][230][Configuration]
-PreloadWeight=55
+PreloadWeight=65
 SystrayContainmentId=231
 
 [Containments][225][Applets][243]
@@ -582,6 +582,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
+popupHeight=432
+popupWidth=432
 wallpaperplugin=org.kde.image
 
 [Containments][231][Applets][232]
@@ -591,6 +593,9 @@ plugin=org.kde.plasma.printmanager
 [Containments][231][Applets][233]
 immutability=1
 plugin=org.kde.plasma.volume
+
+[Containments][231][Applets][233][Configuration]
+PreloadWeight=60
 
 [Containments][231][Applets][233][Configuration][General]
 migrated=true
@@ -636,7 +641,7 @@ immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
 [Containments][231][Applets][245][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][231][Applets][246]
 immutability=1
@@ -645,6 +650,9 @@ plugin=org.kde.plasma.battery
 [Containments][231][Applets][247]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
+
+[Containments][231][Applets][247][Configuration]
+PreloadWeight=55
 
 [Containments][231][Applets][248]
 immutability=1
@@ -672,7 +680,7 @@ DialogWidth=720
 [Containments][54][General]
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=764
-positions={"2560x1440":[]}
+positions={"2560x1440":["1"\\,"23"\\,"desktop:/input-overlay (copy)"\\,"0"\\,"1"\\,"desktop:/input-overlay"\\,"0"\\,"0"]}
 sortMode=-1
 
 [Containments][54][Wallpaper][org.kde.image][General]
@@ -813,7 +821,7 @@ immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
 [Containments][62][Applets][78][Configuration]
-PreloadWeight=10
+PreloadWeight=2
 
 [Containments][62][Applets][79]
 immutability=1
@@ -920,7 +928,7 @@ immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
 [Containments][96][Applets][112][Configuration]
-PreloadWeight=18
+PreloadWeight=10
 
 [Containments][96][Applets][113]
 immutability=1
@@ -969,4 +977,4 @@ knownItems=org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.blue
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/nvim.desktop,0,b4a43fe0-3b78-4b27-a1a2-183399f6855b
+screenMapping=desktop:/input-overlay,0,b4a43fe0-3b78-4b27-a1a2-183399f6855b,desktop:/nvim.desktop,0,b4a43fe0-3b78-4b27-a1a2-183399f6855b,desktop:/input-overlay (copy),0,b4a43fe0-3b78-4b27-a1a2-183399f6855b
