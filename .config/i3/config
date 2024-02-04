@@ -270,5 +270,6 @@ bindsym $mod+Shift+p exec sh -c "flatpak run io.gitlab.librewolf-community && al
 
 #ulauncher
 bindsym Ctrl+u exec --no-startup-id ulauncher
+exec --no-startup-id xsetroot -cursor_name left_ptr
 
 
