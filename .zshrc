@@ -118,7 +118,8 @@ alias rm='trash'
 alias fp='find /home/florin/personal -type d | fzf'
 
 export PATH="$HOME/.nix-profile/bin:$PATH"
-source /home/florin/zsh-syntax-highlighting/themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
+export PATH=/home/florin/venv/bin:$PATH
+source /home/florin/repos/zsh-syntax-highlighting/themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
 
 [[ -s /home/florin/.autojump/etc/profile.d/autojump.sh ]] && source /home/florin/.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
